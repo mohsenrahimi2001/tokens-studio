@@ -1,2 +1,2 @@
 # tokens-studio
-Design tokens based on TailwindCSS for "Tokens Studio" plugin in Figma
+Design tokens for "Tokens Studio" plugin in Figma based on TailwindCSS
